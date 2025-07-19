@@ -11,7 +11,7 @@ I’m currently working on innovative projects like CallGPT - an AI-based real-t
 * 🌍  I'm based in Nashik, Maharashtra, India
 * ✉️  You can contact me at [akankshadarade2004@gmail.com](mailto:akankshadarade2004@gmail.com)
 * 🧠  I'm learning Currently learning Full Stack Development (MERN), Data Structures & Algorithms, and exploring the fundamentals of AI/ML
-* 🤝  I'm open to collaborating on I'm open to collaborating on full-stack web development projects
+* 🤝  I'm open to collaborating on full-stack web development projects
 
 ### Skills
 
