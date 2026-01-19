@@ -5,7 +5,7 @@ Full-Stack Web Developer | Passionate about Clean Code & UI/UX
 --------------------------------------------------------------
 
 # 💫 About Me:
-👋 Hi, I’m Akanksha Balasaheb Darade<br><br>🎓 Final-year Computer Engineering student at GCOERC, Nashik<br><br>💻 Passionate about Full-Stack Web Development & AI-based projects<br><br>⚙️ Skilled in React, MERN Stack, PHP, MySQL, HTML, CSS, JavaScript<br><br>🤖 Working on projects like CallGPT (AI Voice Assistant), Amazon Clone, Spotify Clone<br><br>📚 Currently improving DSA, problem-solving, and backend skills<br><br>🚀 Preparing for Software Engineer roles & campus placements<br><br>✨ Love building clean UI, scalable apps, and learning new technologies
+🎓 Final-year Computer Engineering student at GCOERC, Nashik<br><br>💻 Passionate about Full-Stack Web Development & AI-based projects<br><br>⚙️ Skilled in React, MERN Stack, PHP, MySQL, HTML, CSS, JavaScript<br><br>🤖 Working on projects like CallGPT (AI Voice Assistant), Amazon Clone, Spotify Clone<br><br>📚 Currently improving DSA, problem-solving, and backend skills<br><br>🚀 Preparing for Software Engineer roles & campus placements<br><br>✨ Love building clean UI, scalable apps, and learning new technologies
 
 
 # 💻 Tech Stack:
